@@ -5,6 +5,7 @@
 
 ![PixelPioneersClub Banner]
   <img src="https://github.com/pixelpioneersclub/Image/9AEA909D-32D9-45C3-BCE5-06E0307C1E92.jpeg?raw=true" alt="pixelpioneersclub" width="80%" />
+  <img src="./9AEA909D-32D9-45C3-BCE5-06E0307C1E92.jpeg" alt="pixelpioneersclub" width="80%" />
   <br>
 W PixelPioneersClub tworzymy gry z pasją i zaangażowaniem!  
 To miejsce, gdzie łączymy kreatywność z nowoczesnym podejściem do game devu.  
