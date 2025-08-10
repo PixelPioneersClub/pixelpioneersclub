@@ -4,3 +4,5 @@ W PixelPioneersClub tworzymy gry z pasją i zaangażowaniem! To miejsce, gdzie �
 
 
 At PixelPioneersClub, we create games with passion and dedication! This is where creativity meets a modern approach to game development. Check out our projects and join the adventure — and follow us on Instagram @pixelpioneersclub to see how our games come to life!
+
+Follow us on Instagram: [@pixelpioneersclub](https://www.instagram.com/pixelpioneersclub)
